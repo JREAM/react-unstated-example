@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  background: #565656;
+}
+
+.hero-body .title {
+  font-size: 92px;
+}
